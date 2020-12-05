@@ -1,0 +1,186 @@
+body {
+  margin:0;
+}
+header {
+	background-image: url(https://i.imgur.com/myCoBNS.jpg); 
+}
+
+header p {
+  font-family: Courier New;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+  text-shadow: 2px 1px 3px #777;
+}
+
+header h4 {
+  font-family: Courier New;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+  color:#FFFFFF;
+  text-shadow: 2px 1px 3px #777;
+}
+
+.school{
+	align-self: center;
+}
+
+header h1{
+  text-align: center;
+  font-family: Courier New;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 50px;
+  margin:0;
+  text-shadow: 1px 1px 1px #000;
+color: #FFFFFF;
+}
+
+header h2{
+  font-family: Courier New;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+  color:#FFFFFF;
+  text-shadow: 2px 1px 3px #777;
+}
+
+.main {
+  background-image:url(https://i.imgur.com/VjLOLUE.png);
+  background-size: 100px;
+  padding-top:10px;
+}
+
+.info {
+  font-family: Courier New;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 27px;
+color:#FFFFCC;  
+}
+
+.main h2 {
+  text-align: center;
+  font-family: 'Roboto',Arial,sans-serif;
+  font-size: 30px;
+  margin: 100px;
+  color:#000000;
+  max-width:auto;
+}
+
+.main h1 {
+  text-align: center;
+  font-family: Fedra Sans;
+  font-size: auto;
+  margin: 100px;
+  color:#FFCC00;
+  text-shadow: 1px 1px 1px #000;
+  
+}
+
+.main li {
+  padding-top: 15px;
+}
+
+.main h4 {
+  text-align: center;
+}
+
+.sport {
+  background-image: url(https://i.imgur.com/z4Q1QqY.jpg);
+  background-size: 1920px 1920px;
+  max-width:auto;
+}
+
+.fizruk {
+  display:flex;
+  justify-content: space-left;
+  padding-left: 50px;
+  background-image: url(https://i.imgur.com/z4Q1QqY.jpg);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: Courier New;
+  -webkit-box-align: center;
+}
+
+.intro {
+  
+}
+
+.gym {
+  text-align: center;
+  font-family: Courier New;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 50px;
+  padding-bottom:50px; 
+}
+
+.gym-2 {
+  display:flex;
+  justify-content:space-around;
+}
+
+.gym-2 li{
+  font-size:30px;
+  font-family: initial;
+}
+
+.gym-2 ol{
+  font-size:30px;
+  font-family: sans-serif;
+}
+
+.reviews {
+  background-image: url(https://i.imgur.com/z4Q1QqY.jpg);
+  background-size: 1920px 1920px;
+  max-width:auto;
+}
+
+.reviews h1{
+    text-align: center;
+  font-family: Fedra Sans;
+  font-size: auto;
+  margin: 100px;
+  color:#FFCC00;
+  text-shadow: 1px 1px 1px #000;
+  max-width:100%;
+}
+
+.reviews-school p {
+  font-family: Courier New;
+  font-style: normal;
+  font-weight: normal;
+  font-size:20px;
+}
+
+.reviews-school {
+  display:flex;
+  justify-content: space-around;
+}
+
+footer {
+  display:flex;
+  justify-content:center;
+  font-family: Verdana;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+  background-color:#131313;
+}
+
+footer h2{
+  padding-bottom: 200px;
+  font-family: Verdana;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+  color:#888888;
+}
+
